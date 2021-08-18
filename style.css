@@ -18,8 +18,7 @@ img {
     display: block;
     margin: .5em auto;
     padding: .5em;
-    border: 1px solid #ccc;
-    background: #fff;
+    border: none;
 }
 
 h1 { color: black }
@@ -33,4 +32,8 @@ a {
 a:hover
 {
     color: green
+}
+
+table {
+    border: 1px solid black;
 }
