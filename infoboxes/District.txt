@@ -1,0 +1,72 @@
+<table style="float:right">
+	<tr>
+		<td colspan="2" style="text-align:center"><b>{{district name}}</b></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="text-align:center"><img src="{{path to flag}}" alt="Flag of {{district name}}" style="width:200px; height:auto;"></td>
+	</tr>
+	<tr>
+		<td>Country:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Planet:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Capital:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Largest city:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Senator:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Governor:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Legislature:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Judge:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Area:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Highest elevation:</td>
+		<td><td>
+	</tr>
+	<tr>
+		<td>Lowest elevation:</td>
+		<td><td>
+	</tr>
+	<tr>
+		<td>Population:</td>
+		<td><td>
+	</tr>
+	<tr>
+		<td>Demonym:</td>
+		<td><td>
+	</tr>
+	<tr>
+		<td>Official Language:</td>
+		<td><td>
+	</tr>
+	<tr>
+		<td>Time zone:</td>
+		<td><td>
+	</tr>
+	<tr>
+		<td>District code:</td>
+		<td><td>
+	</tr>
+</table>

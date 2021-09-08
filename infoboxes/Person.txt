@@ -1,0 +1,32 @@
+<table id="TOC" style="float:right">
+	<tr>
+		<td colspan="2" style="text-align:center"><b>[Name of person]</b></td>
+	</tr>
+	<tr>
+		<td colspan="2" style="text-align:center"><img src="[Path to person's pfp/image]" alt="[Name of person]'s profile picture/image" style="width:200px; height:auto;"></td>
+	</tr>
+	<tr>
+		<td>Current Position:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Former Positions:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Species:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>District:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Current Political Parties:</td>
+		<td></td>
+	</tr>
+	<tr>
+		<td>Former Political Parties:</td>
+		<td></td>
+	</tr>
+</table>
